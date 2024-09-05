@@ -4,7 +4,7 @@
   "logo": {
     "dark": "/logo/dark.svg",
     "light": "/logo/light.svg",
-    "href": "/"
+    "href": "https://docs.router.so/"
   },
   "favicon": "/favicon.svg",
   "colors": {
@@ -63,6 +63,6 @@
     }
   ],
   "footerSocials": {
-    "github": "https://github.com/routerso/router"
+    "github": "https://github.com/routerso/router/"
   }
 }
